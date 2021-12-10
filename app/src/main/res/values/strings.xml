@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="link">https://github.com/kanharajput</string>
+    <string name="message">I am doing.....</string>
+    <string name="location">Bakaner Manawar</string>
+    <string name="openWeb">Open Link</string>
+    <string name="openLoc">Open Location</string>
+    <string name="sendMess">Send Message</string>
+    <string name="chooserMessage">Choose to  send message.</string>
+</resources>
