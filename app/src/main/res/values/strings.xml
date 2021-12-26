@@ -7,4 +7,6 @@
     <string name="openLoc">Open Location</string>
     <string name="sendMess">Send Message</string>
     <string name="chooserMessage">Choose to  send message.</string>
+    <string name="chooserWeb">Choose to open.</string>
+    <string name="camera">Camera</string>
 </resources>

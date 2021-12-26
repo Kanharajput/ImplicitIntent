@@ -10,6 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ImplicitIntentSender">
         <activity
+            android:name=".SecondActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity">
+
+            <meta-data
+                android:name="android.support.PARENTACTIVITY"
+                android:value="com.example.implicitintentsender.MainActivity" />
+
+        </activity>
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
